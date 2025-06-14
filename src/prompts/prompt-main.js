@@ -1,4 +1,3 @@
-import { message } from "prompt";
 
 const mainPrompt = [
     {
@@ -9,3 +8,5 @@ const mainPrompt = [
         require: true,
     }
 ]
+
+export default mainPrompt;
